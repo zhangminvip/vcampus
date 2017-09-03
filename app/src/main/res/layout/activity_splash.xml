@@ -7,13 +7,14 @@
     android:background="#0082d6"
     android:orientation="vertical">
 
-
+    <!--ic_splash_logo-->
     <ImageView
         android:id="@+id/iv_logo"
         android:layout_width="150dp"
         android:layout_height="160dp"
-        android:src="@drawable/logo"/>
+        android:src="@drawable/ic_splash_logo"/>
 
+    <!--欢迎语-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
